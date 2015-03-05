@@ -1,4 +1,4 @@
-A starter kit for Node
+A starter kit for Node.  A dev gift for my friends at MacLaren
 
 1) Make sure you have Node.js installed on your machine
 
@@ -22,4 +22,4 @@ jQuery is included.  Feel free to update the version depending on when you use t
 
 ===========
 
-Thank you for a great work experience:  Adam Winick: sinelanguage@gmail.com: @sinelanguage
+Thank you everyone at MacLaren for a great work experience:  Adam Winick: sinelanguage@gmail.com: @sinelanguage

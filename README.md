@@ -1,6 +1,3 @@
-node static server starter-kit
-===========
-
 A starter kit for Node
 
 1) Make sure you have Node.js installed on your machine
